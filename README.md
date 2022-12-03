@@ -1,5 +1,3 @@
-# Essays and Articles
+## Articles and Essays
 
-An archive of some selected articles, essays and webpages I wrote.
-
-- [Women in Science](https://ronaldhuidrom.github.io/articles/women-in-science)
+- [Women in Science](https://ronaldhuidrom.github.io/articles/women-in-science), expository article, 2022
